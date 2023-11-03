@@ -97,7 +97,7 @@ body{
     resize: vertical
 }
 #contact input[type=email], select, textarea {
-    font-size: 1px;
+    font-size: 10px;
     width: 100%;
     padding: 10px;
     border: 2px solid #ccc;
